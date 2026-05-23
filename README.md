@@ -1,3 +1,20 @@
+
+
+## Quick Start
+
+Install with:
+```bash
+pip install langchain
+```
+
+Or clone and run:
+```bash
+git clone https://github.com/langchain-ai/langchain.git
+cd langchain
+python setup.py install
+```
+
+# langchain
 <div align="center">
   <a href="https://docs.langchain.com/oss/python/langchain/overview">
     <picture>
