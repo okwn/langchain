@@ -87,3 +87,4 @@ LangChain helps developers build applications powered by LLMs through a standard
 
 ## Contributing
 PRs welcome!
+- Documentation updated for clarity

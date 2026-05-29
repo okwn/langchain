@@ -1,3 +1,5 @@
-/.github/   @ccurme @eyurtsev @mdrxy
-/libs/core/ @eyurtsev
-/libs/partners/ @ccurme @mdrxy
+# Code Owners
+# This file defines who is responsible for code in this repository.
+# Maintainers will be automatically requested for review on PRs.
+
+* @default-reviewer
